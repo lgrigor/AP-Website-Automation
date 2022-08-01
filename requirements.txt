@@ -1,0 +1,6 @@
+opencv_python==4.6.0.66
+pytest==7.1.1
+scikit_image==0.19.3
+selenium==4.3.0
+skimage==0.0
+webdriver_manager==3.5.2
